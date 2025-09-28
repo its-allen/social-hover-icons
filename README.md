@@ -5,7 +5,7 @@ Each icon features **smooth hover animations** that enhance user experience whil
 
 ---
 
-## ✨ Features
+## ✨ Features:
 - ⚡ 100% HTML & CSS (no JavaScript required)  
 - 🎬 Smooth transitions and hover effects  
 - 📱 Fully responsive (works on desktop & mobile)  
@@ -14,18 +14,18 @@ Each icon features **smooth hover animations** that enhance user experience whil
 
 ---
 
-## 🔗 Live Demo
+## 🔗 Live Demo:
 👉 [View on GitHub Pages](https://its-allen.github.io/social-hover-icons)  
 
 ---
 
-## 🖼 Preview
+## 🖼 Preview:
 ![Preview](assets/Screen-shot-1.png)
 ![Preview](assets/Screen-shot-2.png)
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack:
 - **HTML5** – semantic structure  
 - **CSS3** – flex/grid layout, transitions, transforms  
 
